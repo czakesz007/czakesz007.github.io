@@ -1,0 +1,160 @@
+.fejlec{
+  display:flex;
+  width: 800px;
+  height: 50px;
+ font-family: 'Abril Fatface', cursive;
+  color: #1F5C76;
+}
+.row{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.column{ 
+}
+#szeles{
+  width:400px;
+}
+.lista{
+  style="list-style-type:square";
+  font-family: 'Josefin Sans', sans-serif;
+  color: #2E677F;
+}
+.header {
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  top: 0;
+  height: 70px;
+  background: black;
+  list-style-type:"";
+  width: 810px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#card-holder{
+  display: flex;
+}
+.item1{
+  background: black;
+  color:#70BEDF;
+  width: 100px;
+  height: 30px;
+  margin-bottom:10px;
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+}
+.item2{
+  background: black;
+  color:#70BEDF;
+  width: 150px;
+  height: 30px;
+  margin-bottom:10px;
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+}
+.item3{
+  background: black;
+  color:#70BEDF;
+  width: 150px;
+  height: 30px;
+  margin-bottom:10px;
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+}
+.item4{
+  background: black;
+  color:#70BEDF;
+  /*width: 150px;*/
+  height: 30px;
+  margin-bottom:10px;
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+}
+
+#szoveg{
+  display:block;
+  width:400px;
+  padding-top:20px;
+  align-items:center;
+  justify-content:flex-start;
+  margin-left: 10px;
+  /*margin-right: auto;*/
+  font-family: 'Josefin Sans', sans-serif;
+  color: #2A5567;
+  font-size: 15px;
+}
+.pictureback{
+  display:flex;
+  font-family: 'Abril Fatface', cursive;
+  color: #1F5C76;
+  align-items:flex-end;
+ /* justify-content:center; */
+  text-align: center;
+  width: 400px;
+  height:300px;
+  background-image: url("https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png");
+  background-repeat: no-repeat;
+  background-size: cover ;
+  background-position: center;
+ /*margin-left: 381px;*/
+  margin-right: auto;
+}
+
+.formazott{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #2E677F;
+  text-align:left;
+  font-size: 20px;
+}
+.hatter{
+  display: flex;
+  background : #1F5C76;
+  color:white;
+  font-size: 20px;
+  align-items:center;
+  font-family: 'Abril Fatface', cursive;
+  justify-content:center; 
+  text-align: center;
+  width: 400px;
+  height:300px;
+  /*margin-left: 381px;*/
+  margin-right: auto;
+}
+#uso{
+  height:500px;
+}
+
+.bekezdes{
+  margin-left: 10px;
+  font-family: 'Work Sans', sans-serif;
+  color: #2E677F;
+  font-weight: bold;
+  font-size: 20px;
+  width:400px;
+}
+
+.dolt{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222 grey;
+  font-weight: bold;
+  font-style: oblique;
+  font-size: 18px;
+  font-family: 'Work Sans', sans-serif;
+ color: #2E677F;
+ font-weight: bold;
+  font-size: 20px;
+}
+.lista{
+  style="list-style-type:square";
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222 grey;
+}
+.csik{
+  width:800px;
+  height:5px;
+  background: black;
+}
+h2{
+  margin-top:0px;
+}
